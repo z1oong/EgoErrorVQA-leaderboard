@@ -1,6 +1,8 @@
-[
-    
-
+{
+    "participants": {
+    "agent": "qwen2.5-vl"
+  },
+"results":[
 {
     "overall_average_score": 3.0,
     "overall_accuracy": 0.1276,
@@ -9,5 +11,5 @@
     "overall_f1": 0.1823
 
 }
-
 ]
+}
