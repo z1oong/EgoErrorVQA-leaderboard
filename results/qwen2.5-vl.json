@@ -1,12 +1,13 @@
-{
+[
     
-    "results":
-[{
+
+{
     "overall_average_score": 3.0,
     "overall_accuracy": 0.1276,
     "overall_precision": 0.1006,
     "overall_recall": 0.9728,
     "overall_f1": 0.1823
 
-}]
 }
+
+]
