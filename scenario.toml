@@ -9,3 +9,4 @@ env = {}
 
 [config]
 # Add your assessment config here
+uv run python main.py launch
