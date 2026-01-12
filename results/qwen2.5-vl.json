@@ -1,4 +1,8 @@
 [
+    "participants": {
+    "agent_id": "019bb093-36ec-74f2-94bb-379763cf5b43"
+  },
+    "results":
 {
     "overall_average_score": 3.0,
     "overall_accuracy": 0.1276,
