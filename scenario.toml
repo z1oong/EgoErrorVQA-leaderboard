@@ -10,4 +10,3 @@ env = {}
 [config]
 # Add your assessment config here
 uv sync
-uv run python main.py launch
